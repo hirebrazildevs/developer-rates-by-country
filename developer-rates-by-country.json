@@ -1,0 +1,74 @@
+{
+  "name": "Senior software developer monthly cost by country",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "HireBrazilDevs — https://hirebrazildevs.com/developer-rates-by-country",
+  "currency": "USD",
+  "unit": "month, per engineer, all-inclusive, as a company pays it",
+  "caveat": "Published by a vendor that sells Brazilian engineers. the Philippines and India cost less than Brazil and the data says so.",
+  "method": "Each range is the figure published on the corresponding country comparison page on hirebrazildevs.com. Ranges are market observations, not quotes. The U.S. row is a fully loaded employee, not a contractor rate.",
+  "rows": [
+    {
+      "country": "Philippines",
+      "senior_monthly_usd_low": 2000,
+      "senior_monthly_usd_high": 4000,
+      "overlap_with_us_hours": "None without a night shift",
+      "talent_pool": "Large",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-philippines"
+    },
+    {
+      "country": "India",
+      "senior_monthly_usd_low": 2500,
+      "senior_monthly_usd_high": 4500,
+      "overlap_with_us_hours": "None without a night shift",
+      "talent_pool": "Several million developers",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-india"
+    },
+    {
+      "country": "Argentina",
+      "senior_monthly_usd_low": 4000,
+      "senior_monthly_usd_high": 6500,
+      "overlap_with_us_hours": "7–8 hours",
+      "talent_pool": "About 130,000 developers",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-argentina"
+    },
+    {
+      "country": "Brazil",
+      "senior_monthly_usd_low": 4000,
+      "senior_monthly_usd_high": 6500,
+      "overlap_with_us_hours": "7–8 hours with U.S. Eastern, 4–5 with Pacific",
+      "talent_pool": "About 750,000 developers",
+      "is_vendor_home_country": true,
+      "source_url": "https://hirebrazildevs.com/developer-rates-by-country"
+    },
+    {
+      "country": "Mexico",
+      "senior_monthly_usd_low": 4500,
+      "senior_monthly_usd_high": 7000,
+      "overlap_with_us_hours": "7–8 hours on a normal schedule",
+      "talent_pool": "About 220,000 developers",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-mexico"
+    },
+    {
+      "country": "Poland",
+      "senior_monthly_usd_low": 6000,
+      "senior_monthly_usd_high": 9000,
+      "overlap_with_us_hours": "2–3 hours, at the edge of the Polish day",
+      "talent_pool": "Strong senior pool",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-poland"
+    },
+    {
+      "country": "A U.S. remote hire",
+      "senior_monthly_usd_low": 13000,
+      "senior_monthly_usd_high": 17000,
+      "overlap_with_us_hours": "Full",
+      "talent_pool": "",
+      "is_vendor_home_country": false,
+      "source_url": "https://hirebrazildevs.com/compare/brazil-vs-us-remote"
+    }
+  ]
+}

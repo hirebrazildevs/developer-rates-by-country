@@ -1,0 +1,8 @@
+country,senior_monthly_usd_low,senior_monthly_usd_high,overlap_with_us_hours,talent_pool,is_vendor_home_country,source_url
+Philippines,2000,4000,None without a night shift,Large,false,https://hirebrazildevs.com/compare/brazil-vs-philippines
+India,2500,4500,None without a night shift,Several million developers,false,https://hirebrazildevs.com/compare/brazil-vs-india
+Argentina,4000,6500,7–8 hours,"About 130,000 developers",false,https://hirebrazildevs.com/compare/brazil-vs-argentina
+Brazil,4000,6500,"7–8 hours with U.S. Eastern, 4–5 with Pacific","About 750,000 developers",true,https://hirebrazildevs.com/developer-rates-by-country
+Mexico,4500,7000,7–8 hours on a normal schedule,"About 220,000 developers",false,https://hirebrazildevs.com/compare/brazil-vs-mexico
+Poland,6000,9000,"2–3 hours, at the edge of the Polish day",Strong senior pool,false,https://hirebrazildevs.com/compare/brazil-vs-poland
+A U.S. remote hire,13000,17000,Full,,false,https://hirebrazildevs.com/compare/brazil-vs-us-remote
